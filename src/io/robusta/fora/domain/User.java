@@ -2,9 +2,7 @@ package io.robusta.fora.domain;
 
 import java.io.Serializable;
 
-import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
 public class User implements Serializable{
 
 	
